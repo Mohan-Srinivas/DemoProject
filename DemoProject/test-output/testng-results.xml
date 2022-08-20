@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-10T13:17:53 IST" name="Default suite" finished-at="2022-08-10T13:18:14 IST" duration-ms="21550">
+    <groups>
+    </groups>
+    <test started-at="2022-08-10T13:17:53 IST" name="Default test" finished-at="2022-08-10T13:18:14 IST" duration-ms="21550">
+      <class name="ExcelReadingOperations.JxlReader">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:ExcelReadingOperations.JxlReader@3c73951]" started-at="2022-08-10T13:17:53 IST" name="beforeTest" finished-at="2022-08-10T13:17:56 IST" duration-ms="3520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:ExcelReadingOperations.JxlReader@3c73951]" started-at="2022-08-10T13:17:56 IST" name="login" data-provider="Dp" finished-at="2022-08-10T13:18:08 IST" duration-ms="11476" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:ExcelReadingOperations.JxlReader@3c73951]" started-at="2022-08-10T13:18:08 IST" name="login" data-provider="Dp" finished-at="2022-08-10T13:18:10 IST" duration-ms="2458" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:ExcelReadingOperations.JxlReader@3c73951]" started-at="2022-08-10T13:18:10 IST" name="login" data-provider="Dp" finished-at="2022-08-10T13:18:12 IST" duration-ms="1735" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:ExcelReadingOperations.JxlReader@3c73951]" started-at="2022-08-10T13:18:12 IST" name="login" data-provider="Dp" finished-at="2022-08-10T13:18:14 IST" duration-ms="2085" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:ExcelReadingOperations.JxlReader@3c73951]" started-at="2022-08-10T13:18:14 IST" name="afterTest" finished-at="2022-08-10T13:18:14 IST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- ExcelReadingOperations.JxlReader -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
